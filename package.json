@@ -1,0 +1,19 @@
+{
+  "name": "nathan-wts.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch ./scss/main.scss:./public/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nathan-Wts/nathan-wts.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nathan-Wts/nathan-wts.github.io/issues"
+  },
+  "homepage": "https://github.com/Nathan-Wts/nathan-wts.github.io#readme"
+}
